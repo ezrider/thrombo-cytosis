@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="observation-articles">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc">F1000Research</journal-id>
+            <journal-title-group>
+                <journal-title>F1000Research</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2046-1402</issn>
+            <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.12688/f1000research.4856.2</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Observation Article</subject>
+                </subj-group>
+                <subj-group>
+                    <subject>Articles</subject>
+                    <subj-group>
+                        <subject>Bleeding &amp; Coagulation Disorders</subject>
+                    </subj-group>
+                    <subj-group>
+                        <subject>Supportive &amp; Palliative Cancer Care</subject>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Thrombocytosis portends adverse prognostic significance in patients with stage II colorectal carcinoma</article-title>
+                <fn-group content-type="pub-status">
+                    <fn>
+                        <p>[version 2; peer review: 2 approved]</p>
+                    </fn>
+                </fn-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Guo</surname>
+                        <given-names>Tianhua</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Krzystanek</surname>
+                        <given-names>Marcin</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="no">
+                    <name>
+                        <surname>Szallasi</surname>
+                        <given-names>Zoltan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="a2">2</xref>
+                    <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Szallasi</surname>
+                        <given-names>Arpad</given-names>
+                    </name>
+                    <xref ref-type="corresp" rid="c1">a</xref>
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <aff id="a1">
+                    <label>1</label>Department of Pathology, Monmouth Medical Center, Long Branch, NJ, NJ 07740, USA</aff>
+                <aff id="a2">
+                    <label>2</label>Department of Systems Biology, Technical University of Denmark, Lyngby, 2800, Denmark</aff>
+                <aff id="a3">
+                    <label>3</label>Children&#x2019;s Hospital Informatics Program at the Harvard&#x2013;Massachusetts Institute of Technology Division of Health Sciences and Technology, Harvard Medical School, Boston, MA, MA 02115, USA</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="c1">
+                    <label>a</label>
+                    <email xlink:href="mailto:aszallasi@barnabashealth.org">aszallasi@barnabashealth.org</email>
+                </corresp>
+                <fn fn-type="con">
+                    <p>Tianhua Guo: collected data.</p>
+                    <p>Marcin Krzystanek: analysed data.</p>
+                    <p>Zoltan Szallasi: initiated project, supervised data analysis.</p>
+                    <p>Arpad Szallasi: supervised project, prepared MS.</p>
+                    <p>All authors revised the manuscript and agreed to the final content.</p>
+                </fn>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>20</day>
+                <month>10</month>
+                <year>2014</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <year>2014</year>
+            </pub-date>
+            <volume>3</volume>
+            <elocation-id>180</elocation-id>
+            <history>
+                <date date-type="accepted">
+                    <day>16</day>
+                    <month>10</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2014 Guo T et al.</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf" xlink:href="https://f1000researchdata.s3.amazonaws.com/manuscripts/5910/4e7b8809-62b0-443c-b949-aa74a743c8e9_4856_-_arpad_szallasi_v2_edited.pdf"/>
+            <abstract>
+                <p>Thrombocytosis portends adverse prognostic significance in many types of cancers including ovarian and lung carcinoma. In this study, we determined the prevalence and prognostic significance of thrombocytosis (defined as platelet count in excess of 400 &#x00d7; 10
+                    <sup>3</sup>/&#x03bc;l) in patients with colorectal cancer. We performed a retrospective analysis of 310 consecutive patients diagnosed at our Institution between 2004 and 2013. The patients (48.7% male and 51.3% female) had a mean age of 69.9 years (+/- 12.7 years) at diagnosis. Thrombocytosis was found in a total of 25 patients, with a higher incidence in those with stage III and IV disease (14.4% of patients). Although the mean platelet count increased with the depth of tumor invasion (pT), its values remained within normal limits in the whole patient cohort. No patient with stage I cancer (n=57) had elevated platelet count at diagnosis. By contrast, five of the 78 patients (6.4%) with stage II cancer showed thrombocytosis, and four of these patients showed early recurrence and/or metastatic disease, resulting in shortened survival (they died within one year after surgery). The incidence of thrombocytosis increased to 12.2% and 20.6%, respectively, in patients with stage III and IV disease. The overall survival rate of patients with thrombocytosis was lower than those without thrombocytosis in the stage II and III disease groups, but this difference disappeared in patients with stage IV cancer who did poorly regardless of their platelet count. We concluded that thrombocytosis at diagnosis indicates adverse clinical outcome in colorectal cancer patients with stage II or III disease. This observation is especially intriguing in stage II patients because the clinical management of these patients is controversial. If our data are confirmed in larger studies, stage II colon cancer patients with thrombocytosis may be considered for adjuvant chemotherapy.</p>
+            </abstract>
+            <funding-group>
+                <funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement>
+            </funding-group>
+        </article-meta>
+        <notes>
+            <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 1</title>
+                <p>We are grateful to the referees for their time and efforts in improving our manuscript. Whereas we share some of the reservations of the referees, we would like to point out that this is an Observational Study and not a full report. We agree that our observations need to be confirmed in a much larger cohort of patients (indeed, we emphasize this upfront in the Abstract). That said, we believe that despite the study limitations our conclusions are sound enough for publication as a preliminary report.&#x00a0; In the revised version, major changes include: 1) The major limitations of this study (small number of patients in the stage II group; no information on ethnicity, smoking history, medications and/or comorbidities) are now clearly stated in Patients and Methods. 2) The discrepancy in patient numbers between text/Tables and Figure 2 is now explained: our database contained 310 patients, however, our Cancer Registry contained survival data only on 253 of these patients (the remaining 57 patients most likely decided to seek treatment at another medical facility and were, thus, lost to our follow-up). 3) Multivariate analysis was done (see Results). With regard to tumor location (right-sided versus left-sided cancer), the results are now detailed in the text. 4)&#x00a0;&#x00a0;Reactive thrombocytosis is now defined and its most common causes are listed in Introduction.&#x00a0; 5) Reference range as well as mean platelet count (+/- SD) are now given for the two patient groups (with and without thrombocytosis). 6) As suggested, both Abstract and Discussion have been modified by changing "treated as stage III" to "may be considered for adjuvant chemotherapy."</p>
+            </sec>
+        </notes>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introduction</title>
+            <p>Platelets play important roles in hemostasis, immunity and inflammation
+                <sup>
+                    <xref ref-type="bibr" rid="ref-1">1</xref>
+                </sup>. Reactive thrombocytosis is an elevated platelet count (&gt; 400 &#x00d7; 10
+                <sup>3</sup>/&#x03bc;l) that develops secondary to another disorder. Some causes of reactive thrombocytosis include iron deficiency, acute infection, and chronic inflammatory disorders (
+                <ext-link ext-link-type="uri" xlink:href="http://www.patient.co.uk/doctor/thrombocytosis">http://www.patient.co.uk/doctor/thrombocytosis</ext-link>). Cancer is often associated with paraneoplastic thrombocytosis
+                <sup>
+                    <xref ref-type="bibr" rid="ref-2">2</xref>
+                </sup>. Thrombocytosis was reported as a poor prognostic indicator in many types of cancers including lung cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-3">3</xref>
+                </sup>, renal cell carcinoma
+                <sup>
+                    <xref ref-type="bibr" rid="ref-4">4</xref>
+                </sup> and gynecological cancers
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. A positive correlation between the depth of tumor invasion and platelet counts was demonstrated in a gastric cancer study, and thrombocytosis served as an adverse prognostic factor in clinical outcome in gastric cancer patients
+                <sup>
+                    <xref ref-type="bibr" rid="ref-6">6</xref>
+                </sup>. Recent studies have shown that thrombocytosis in cancer may be correlated with serum cytokine levels that stimulate thrombopoiesis. For example, elevated plasma levels of IL-6 and thrombopoietin were reported in ovarian cancer patients
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>.</p>
+            <p>Colon cancer is a leading cause of cancer-related death in developed countries (
+                <ext-link ext-link-type="uri" xlink:href="http://seer.cancer.gov/statfacts/html/colorect.html">http://seer.cancer.gov/statfacts/html/colorect.html</ext-link>). A significant portion of patients receiving potentially curative resection dies within five years of diagnosis
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>
+                </sup>. Since both chemo- and radiation therapies cause very significant side-effects, it is critical to define reliable prognostic factors to identify patients who might benefit from more aggressive adjuvant treatment options. The prognostic role of thrombocytosis in colorectal cancer patients has not been fully investigated, although there are some reports supporting the negative impact of thrombocytosis on the survival of patients with colorectal cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>.</p>
+            <p>In this study, the aim was to analyze the association between platelet count at diagnosis or pre-surgery and cancer stage, and to determine the prognostic significance of thrombocytosis in patients with colorectal cancer.</p>
+        </sec>
+        <sec sec-type="patients | methods">
+            <title>Patients and methods</title>
+            <p>After approval by the Monmouth Medical Center Institutional Research Review Board (IRB Study # 213-041), the medical records of 310 consecutive colorectal cancer patients who underwent biopsy (47 patients), surgical resection and/or neoadjuvant treatment (263 patients) at our Institution between 2004 and 2013 were retrospectively reviewed. The patient cohort included 62 patients with 
+                <italic>in-situ</italic> or stage I disease, 78 patients at stage II, 98 patients at stage III, 34 patients at stage IV, and 38 patients with biopsy diagnosis only (stage could not be determined). The mean age of the patients was 69.9 &#x00b1; 12.7 years (range = 32 to 98 years). The data gathered included platelet counts, tumor location, histological type and differentiation, lymph node metastasis, depth of tumor invasion (T), and presence or absence of distant metastasis. The database did not include ethnicity, smoking habits, and comorbidities.</p>
+            <p>Pre-operative platelet counts were collected from our Laboratory Information System (LIS), and thrombocytosis was defined as platelet count &#x2265; 400 &#x00d7; 10
+                <sup>3</sup>/&#x03bc;l (normal range = 150 to 400 &#x00d7; 10
+                <sup>3</sup>/&#x03bc;l). After resection of the tumor, all specimens were histologically examined by a pathologist and the pathological TNM stage was determined according to the American Joint Committee on Cancer, 7
+                <sup>th</sup> edition. Stage I and II cancers are lymph node negative (N0) whereas stage III is defined by the presence of lymph node metastasis. Patients with distant metastatic disease are classified as stage IV.</p>
+            <p>Survival data for 253 patients  were provided by the Cancer Registry at the Leon Hess Cancer Center, Monmouth Medical Center (57 patients were lost to follow-up). All calculations were made using R version 2.15.0 and packages &#x201c;beeswarm&#x201d;, &#x201c;survplot&#x201d;, &#x201c;survival&#x201d; and &#x201c;stats&#x201d;. Survival curves were generated using the Kaplan-Meier method. Hazard ratios with 95% confidence intervals were obtained using Cox proportional hazards regression. Long-rank test was used for the analysis of significance.</p>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>The characteristics (including age, gender, pT stage, tumor differentiation and platelet count) of the patients in our study cohort are shown in 
+                <xref ref-type="table" rid="T1">Table 1</xref>. Of the 310 patients with colorectal cancer, 25 (8.1%) had thrombocytosis at diagnosis or pre-surgery with the highest incidence detected in stage IV patients (20.6%) [
+                <xref ref-type="table" rid="T2">Table 2</xref>]. Importantly, none of the 57 patients with stage I carcinoma had elevated platelet count. The mean platelet counts (&#x00d7; 10
+                <sup>3</sup>/&#x00b5;L) in patients with or without thrombocytosis were 494.7 &#x00b1; 83.0 and 246.2 &#x00b1; 72.3, respectively.</p>
+            <p>Although the mean platelet count increased with the depth of invasion (pT), it remained within the normal limits in all patients groups (pT1 to pT4) [
+                <xref ref-type="fig" rid="f1">Figure 1</xref>]. Mean platelet counts (&#x00d7; 10
+                <sup>3</sup>/&#x00b5;L) were 216 &#x00b1; 71 (pT1), 252 &#x00b1; 83 (pT2), 274 &#x00b1; 109 (pT3), and 291 &#x00b1; 104 (pT4); this increase was significant at P = 0.001. By contrast, in multivariate analysis, there were no significant differences in thrombocytosis with regard to gender, age, location, or tumor differentiation (data not shown). For example, our database included 193 patients with right-sided (from cecum to splenic flexure) and 102 patients with left-sided (from splenic flexure to rectosigmoid colon) cancer. Furthermore, we had one patient with rectal adenocarcinoma and 14 patients with metastatic (stage IV) colorectal carcinoma of unknown (at least to us) primary location. Fourteen of the 193 patients with right-sided (~7%) and 8 of the 102 patients with left-sided (~7%) carcinoma showed thrombocytosis at diagnosis, indicating that thrombocytosis is not predictive of the location of the tumor (right- 
+                <italic>versus</italic> left-sided).</p>
+            <table-wrap id="T1" position="anchor">
+                <label>Table 1. </label>
+                <caption>
+                    <title>Patient characteristics.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th/>
+                            <th align="left">Number (%)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Total</td>
+                            <td>310</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Gender</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;Male</td>
+                            <td>151 (48.7%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;Female</td>
+                            <td>159 (51.3%)</td>
+                        </tr>
+                        <tr>
+                            <td>Age</td>
+                            <td>69.9 &#x00b1; 12.7 years
+                                <sup>
+                                    <xref ref-type="other" rid="note-1">a</xref>
+                                </sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Pathologic category of primary tumor (pT)
+                                <sup>
+                                    <xref ref-type="other" rid="note-1">b</xref>
+                                </sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pTis</td>
+                            <td>5 (1.6%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pT1</td>
+                            <td>17 (5.5%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pT2</td>
+                            <td>60 (19.4%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pT3</td>
+                            <td>137 (44.2%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pT4</td>
+                            <td>44 (14.2%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;pTx (unclassified)</td>
+                            <td>47 (15.2%)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Grade
+                                <sup>
+                                    <xref ref-type="other" rid="note-1">c</xref>
+                                </sup>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;well differentiated</td>
+                            <td>42 (13.5%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;moderately differentiated</td>
+                            <td>149 (48.1%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;poorly differentiated</td>
+                            <td>67 (21.6%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;unclassified</td>
+                            <td>52 (16.8%)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Platelet count (&#x00d7; 10
+                                <sup>3</sup>/&#x00b5;L)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;&#x2265; 400</td>
+                            <td>25 (8.1%)</td>
+                        </tr>
+                        <tr>
+                            <td>&#x00a0;&#x00a0;&#x00a0;&lt; 400</td>
+                            <td>285 (91.9%)</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <fn id="note-1">
+                        <p>a: Data presented as mean &#x00b1; SD; b: staging according to AJCC Cancer Staging Manual 7
+                            <sup>th</sup> Edition); c: Grading according to WHO grading system</p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap>
+            <table-wrap id="T2" position="anchor">
+                <label>Table 2. </label>
+                <caption>
+                    <title>Incidence of thrombocytosis in each stage of colorectal cancer.</title>
+                </caption>
+                <table content-type="article-table" frame="hsides">
+                    <thead>
+                        <tr>
+                            <th/>
+                            <th align="left">Number of
+                                <break/>cases with
+                                <break/>thrombocytosis</th>
+                            <th align="left">Number of
+                                <break/>cases without
+                                <break/>thrombocytosis</th>
+                            <th align="left">Total
+                                <break/>number
+                                <break/>of cases</th>
+                            <th align="left">% of
+                                <break/>thrombocytosis</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Stage 0</td>
+                            <td>0</td>
+                            <td>5</td>
+                            <td>5</td>
+                            <td>0.0</td>
+                        </tr>
+                        <tr>
+                            <td>Stage I</td>
+                            <td>0</td>
+                            <td>57</td>
+                            <td>57</td>
+                            <td>0.0</td>
+                        </tr>
+                        <tr>
+                            <td>Stage II</td>
+                            <td>5</td>
+                            <td>73</td>
+                            <td>78</td>
+                            <td>6.4</td>
+                        </tr>
+                        <tr>
+                            <td>Stage III</td>
+                            <td>12</td>
+                            <td>86</td>
+                            <td>98</td>
+                            <td>12.2</td>
+                        </tr>
+                        <tr>
+                            <td>Stage IV</td>
+                            <td>7</td>
+                            <td>27</td>
+                            <td>34</td>
+                            <td>20.6</td>
+                        </tr>
+                        <tr>
+                            <td>Stage X
+                                <break/>(unclassified)</td>
+                            <td>1</td>
+                            <td>37</td>
+                            <td>38</td>
+                            <td>2.6</td>
+                        </tr>
+                        <tr>
+                            <td>Overall</td>
+                            <td>25</td>
+                            <td>285</td>
+                            <td>310</td>
+                            <td>8.1</td>
+                        </tr>
+                        <tr>
+                            <td>*Stage IV and III
+                                <break/>combined</td>
+                            <td>19</td>
+                            <td>113</td>
+                            <td>132</td>
+                            <td>14.4</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <fn>
+                        <p>Note: There are 403 cases in our data pool. 310 cases were diagnosed as colon cancer among the 321 cases with available platelet counts (82 cases without platelet counts). 11 non-colorectal cancer cases including 5 cases labeled as &#x201c;appendix&#x201d; and 6 cases labeled as &#x201c;not colon cancer&#x201d; were taken out of the pool.</p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap>
+            <fig fig-type="figure" id="f1" position="float">
+                <label>Figure 1. </label>
+                <caption>
+                    <title>Mean platelet count according to the depth of tumor invasion.</title>
+                    <p>The mean platelet count of patients with pT1, (216 &#x00b1; 71) &#x00d7; 10
+                        <sup>3</sup>/&#x00b5;L is significantly lower than patients with pT4 (291 &#x00b1; 104) &#x00d7; 10
+                        <sup>3</sup>/&#x00b5;L, P = 0.001.</p>
+                </caption>
+                <graphic xlink:href="https://f1000researchdata.s3.amazonaws.com/manuscripts/5910/90f3cd99-6a73-4d44-b183-a8c131ab1bb6_figure1.gif"/>
+            </fig>
+            <p>The combined incidence of thrombocytosis in stage III and IV disease was 14.4%. Stage II disease had the lowest incidence (6.4%) and stage IV cancer showed the highest incidence of elevated platelet count (20.6%) [
+                <xref ref-type="table" rid="T2">Table 2</xref>]. The overall survival of patients with stage I to stage III colorectal cancer with thrombocytosis was significantly lower than those without thrombocytosis [
+                <xref ref-type="fig" rid="f2">Figure 2</xref>]. Although patients with Stage IV carcinoma had the highest prevalence of thrombocytosis, these patients did uniformly poorly and the difference in survival was no longer observed in patients with or without elevated platelet count (not shown). Patients with thrombocytosis (PLT &#x2265; 400 &#x00d7; 10
+                <sup>3</sup>/&#x03bc;L) at stage I to stage III had a hazard ratio of 2.2 compared to the patients without thrombocytosis (PLT &lt; 400 &#x00d7; 10
+                <sup>3</sup>/&#x03bc;L) as shown in 
+                <xref ref-type="fig" rid="f2">Figure 2</xref>.</p>
+            <fig fig-type="figure" id="f2" position="float">
+                <label>Figure 2. </label>
+                <caption>
+                    <title>Overall survival plots of patients with stage I to stage III colorectal cancer according the preoperative platelet counts.</title>
+                    <p>Patients were allocated into two groups: with thrombocytosis, PLT &#x2265; 400 &#x00d7; 10
+                        <sup>3</sup>/&#x00b5;L (labeled as Exceeds) and without thrombocytosis) PLT &lt; 400 &#x00d7; 10
+                        <sup>3</sup>/&#x00b5;L (labeled as Normal). The patients with thrombocytosis have a hazard ratio of 1.8 compare to the patients without thrombocytosis (P&lt;0.041).</p>
+                </caption>
+                <graphic xlink:href="https://f1000researchdata.s3.amazonaws.com/manuscripts/5910/90f3cd99-6a73-4d44-b183-a8c131ab1bb6_figure2.gif"/>
+            </fig>
+            <supplementary-material id="DS0" xlink:href="https://f1000researchdata.s3.amazonaws.com/datasets/4856/21686396-80b9-46ab-8d08-fc25001fddd8_Szallasi_raw_data_final.csv">
+                <label>Data of thrombocytosis in colon cancer patients</label>
+                <caption>
+                    <p>This data set contains the medical records of patients diagnosed with colon cancer at the Monmouth Medical Center between 2004 and 2013.</p>
+                </caption>
+            </supplementary-material>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>It was noted more than 100 years ago that thrombocytosis is often seen in patients with malignant diseases. Indeed, thrombocytosis correlates with both worse disease free survival and shortened overall survival in patients with ovarian cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>, and worsens overall survival in patients with gastric cancer (reviewed in 
+                <xref ref-type="bibr" rid="ref-10">10</xref>). The prognostic significance of thrombocytosis in colorectal cancer, however, remains controversial
+                <sup>
+                    <xref ref-type="bibr" rid="ref-11">11</xref>
+                </sup>, although the majority of literature suggests a negative impact of thrombocytosis on the survival of patients with colorectal cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-8">8</xref>,
+                    <xref ref-type="bibr" rid="ref-9">9</xref>
+                </sup>.</p>
+            <p>In the present study, we identified a mild, T stage-dependant increase in mean platelet counts in patients with colorectal carcinoma that reached statistical significance when comparing T1 to T4; however, the mean platelet count remained within the normal limits in the whole patient cohort. Importantly, thrombocytosis was more common among patients with advanced disease: its prevalence increased from 6.4% in stage II to 20.6% in stage IV cancer patients. Our data are comparable to those reported in the literature (12.1&#x2013;13.9%;
+                <sup>
+                    <xref ref-type="bibr" rid="ref-7">7</xref>,
+                    <xref ref-type="bibr" rid="ref-8">8</xref>
+                </sup>).</p>
+            <p>In our study, thrombocytosis showed adverse prognostic significance in patients with stage I to stage III colorectal carcinoma; this was no longer apparent in patients with stage IV disease, presumably because these patients did poorly regardless of the platelet count.</p>
+            <p>Probably the most intriguing observation of our study is the fairly uniformly dismal clinical outcome of stage II patients with thrombocytosis (five out of 78 patients): four of these five patients did very poorly (they died within a year) and the fifth was lost to follow-up. At present, the National Comprehensive Cancer Network guidelines do not recommend routine administration of adjuvant chemotherapy to stage II colorectal cancer patients whose cancer was completely resected
+                <sup>
+                    <xref ref-type="bibr" rid="ref-12">12</xref>
+                </sup>. Clearly, the small number of patients in this group precludes a definitive conclusion. However, if confirmed in future larger studies, our data indicate that stage II colorectal cancer patients with thrombocytosis may benefit from adjuvant chemotherapy.</p>
+            <p>The molecular mechanisms underlying thrombocytosis in cancer patients are incompletely understood. Recently, plasma levels of IL-6 and thrombopoietin were found to significantly correlate with platelet counts in ovarian cancer patients
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. Indeed, silencing of the IL-6 and thrombopoietin genes markedly abrogated thrombocytosis (and halted tumor progression) in a mouse model of epithelial ovarian cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-5">5</xref>
+                </sup>. These findings are promising because an anti-IL-6 agent (siltuximab) has already been approved by the United States Food and Drug Administration (FDA) to treat patients with Castleman&#x2019;s disease (
+                <ext-link ext-link-type="uri" xlink:href="http://www.cancer.org//cancer/new/fda-approves-sylvant-siltuximab-for-castleman-disease">http://www.cancer.org//cancer/new/fda-approves-sylvant-siltuximab-for-castleman-disease</ext-link>). Another series of study showed that immobilized platelets support human colon carcinoma cell tethering, rolling, and firm adhesion under dynamic flow conditions in colon cancer cell lines, suggesting a role of platelets in hematogenous dissemination of tumor cells in colorectal cancer
+                <sup>
+                    <xref ref-type="bibr" rid="ref-13">13</xref>
+                </sup>. Taken together, these studies imply that inhibition of thrombocytosis may represent a potential novel target in cancer therapy.</p>
+            <p>In summary, thrombocytosis appears to herald adverse clinical outcome in patients with stage II and III colorectal carcinoma. We suggest that elevated platelet count may identify a subset of patients with stage II colon cancer who could benefit from close follow-up and adjuvant chemotherapy.</p>
+        </sec>
+        <sec>
+            <title>Data availability</title>
+            <p>The data referenced by this article are under copyright with the following copyright statement: Copyright: &#x00ef;&#x00bf;&#x00bd; 2014 Guo T et al.</p>
+            <p>Data associated with the article are available under the terms of the Creative Commons Zero "No rights reserved" data waiver (CC0 1.0 Public domain dedication).
+                <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            </p>
+            <p>
+				
+                <italic>F1000Research</italic>: Dataset 1. Data of thrombocytosis in colon cancer patients, 
+                <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5256/f1000research.4856.d33371">10.5256/f1000research.4856.d33371</ext-link>
+                <sup>
+                    <xref ref-type="bibr" rid="ref-14">14</xref>
+                </sup>
+			</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Michelson</surname>
+                            <given-names>AD (ed)</given-names>
+                        </name>
+					</person-group>:
+                    <article-title>Platelets</article-title>. Academic Press, Ebook,<year>2011</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://books.google.co.in/books/about/Platelets.html?id=GnIQGmiSylkC&amp;redir_esc=y">Reference Source</ext-link>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Lin</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Afshar-Khargan</surname>
+                            <given-names>V</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Schafer</surname>
+                            <given-names>AI</given-names>
+                        </name>
+					</person-group>:
+                    <article-title>Paraneoplastic thrombocytosis: the secrets of tumor self-promotion.</article-title>
+                    <source>
+						
+                        <italic>Blood.</italic>
+					</source>
+                    <year>2014</year>;<volume>124</volume>(<issue>2</issue>):<fpage>184</fpage>&#x2013;<lpage>187</lpage>.
+                    <pub-id pub-id-type="pmid">24868077</pub-id>
+                    <pub-id pub-id-type="doi">10.1182/blood-2014-03-562538</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Costatini</surname>
+                            <given-names>V</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Zacharski</surname>
+                            <given-names>LR</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Moritz</surname>
+                            <given-names>TE</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>The platelet count in carcinoma of the lung and colon.</article-title>
+                    <source>
+						
+                        <italic>Thromb Haemost.</italic>
+					</source>
+                    <year>1990</year>;<volume>64</volume>(<issue>4</issue>):<fpage>501</fpage>&#x2013;<lpage>505</lpage>.
+                    <pub-id pub-id-type="pmid">1964750</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Symbas</surname>
+                            <given-names>NP</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Townsend</surname>
+                            <given-names>MF</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>El-Galley</surname>
+                            <given-names>R</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Poor prognosis associated with thrombocytosis in patients with renal cell carcinoma.</article-title>
+                    <source>
+						
+                        <italic>BJU Int.</italic>
+					</source>
+                    <year>2000</year>;<volume>86</volume>(<issue>3</issue>):<fpage>203</fpage>&#x2013;<lpage>207</lpage>.
+                    <pub-id pub-id-type="pmid">10930915</pub-id>
+                    <pub-id pub-id-type="doi">10.1046/j.1464-410x.2000.00792.x</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Stone</surname>
+                            <given-names>RL</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Nick</surname>
+                            <given-names>AM</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>McNeish</surname>
+                            <given-names>IA</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Paraneoplastic thrombocytosis in ovarian cancer.</article-title>
+                    <source>
+						
+                        <italic>N Eng J Med.</italic>
+					</source>
+                    <year>2012</year>;<volume>366</volume>(<issue>7</issue>):<fpage>610</fpage>&#x2013;<lpage>618</lpage>.
+                    <pub-id pub-id-type="pmid">22335738</pub-id>
+                    <pub-id pub-id-type="doi">10.1056/NEJMoa1110352</pub-id>
+                    <pub-id pub-id-type="pmcid">3296780</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Ikeda</surname>
+                            <given-names>M</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Furukawa</surname>
+                            <given-names>H</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Imamura</surname>
+                            <given-names>H</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Poor prognosis associated with thrombocytosis in patients with gastric cancer.</article-title>
+                    <source>
+						
+                        <italic>Ann Surg Oncol.</italic>
+					</source>
+                    <year>2002</year>;<volume>9</volume>(<issue>3</issue>):<fpage>287</fpage>&#x2013;<lpage>291</lpage>.
+                    <pub-id pub-id-type="pmid">11923136</pub-id>
+                    <pub-id pub-id-type="doi">10.1007/BF02573067</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>McArdle</surname>
+                            <given-names>CS</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Hole</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+					</person-group>:
+                    <article-title>Outcome following surgery for colorectal cancer.</article-title>
+                    <source>
+						
+                        <italic>Br Med Bull.</italic>
+					</source>
+                    <year>2002</year>;<volume>64</volume>:<fpage>119</fpage>&#x2013;<lpage>125</lpage>.
+                    <pub-id pub-id-type="pmid">12421729</pub-id>
+                    <pub-id pub-id-type="doi">10.1093/bmb/64.1.119</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Sasaki</surname>
+                            <given-names>K</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Kawai</surname>
+                            <given-names>K</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Tsuno</surname>
+                            <given-names>NH</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Impact of preoperative thrombocytosis on the survival of patients with primary colorectal cancer.</article-title>
+                    <source>
+						
+                        <italic>World J Surg.</italic>
+					</source>
+                    <year>2012</year>;<volume>36</volume>(<issue>1</issue>):<fpage>192</fpage>&#x2013;<lpage>200</lpage>.
+                    <pub-id pub-id-type="pmid">22045447</pub-id>
+                    <pub-id pub-id-type="doi">10.1007/s00268-011-1329-7</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Kandemir</surname>
+                            <given-names>EG</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Mayadagli</surname>
+                            <given-names>A</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Karagoz</surname>
+                            <given-names>B</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Prognostic significance of thrombocytosis in node-negative colon cancer.</article-title>
+                    <source>
+						
+                        <italic>J Int Med Res.</italic>
+					</source>
+                    <year>2005</year>;<volume>33</volume>(<issue>2</issue>):<fpage>228</fpage>&#x2013;<lpage>235</lpage>.
+                    <pub-id pub-id-type="pmid">15790135</pub-id>
+                    <pub-id pub-id-type="doi">10.1177/147323000503300211</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Voutsadakis</surname>
+                            <given-names>IA</given-names>
+                        </name>
+					</person-group>:
+                    <article-title>Thrombocytosis as a prognostic marker in gastrointestinal cancers.</article-title>
+                    <source>
+						
+                        <italic>World J Gastrointest Oncol.</italic>
+					</source>
+                    <year>2014</year>;<volume>6</volume>(<issue>2</issue>):<fpage>34</fpage>&#x2013;<lpage>40</lpage>.
+                    <pub-id pub-id-type="pmid">24567794</pub-id>
+                    <pub-id pub-id-type="doi">10.4251/wjgo.v6.i2.34</pub-id>
+                    <pub-id pub-id-type="pmcid">3926972</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Nyasavajjala</surname>
+                            <given-names>SM</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Runau</surname>
+                            <given-names>F</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Datta</surname>
+                            <given-names>S</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Is there a role for pre-operative thrombocytosis in the management of colorectal cancer?</article-title>
+                    <source>
+						
+                        <italic>Int J Surg.</italic>
+					</source>
+                    <year>2010</year>;<volume>8</volume>(<issue>6</issue>):<fpage>436</fpage>&#x2013;<lpage>438</lpage>.
+                    <pub-id pub-id-type="pmid">20685408</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.ijsu.2010.05.005</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Engstrom</surname>
+                            <given-names>PF</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Arnolett</surname>
+                            <given-names>JP</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Benson</surname>
+                            <given-names>AB</given-names>
+                            <suffix>3rd</suffix>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>NCCN Clinical Practice Guidelines for Oncology: colon cancer.</article-title>
+                    <source>
+						
+                        <italic>J Natl Compr Canc Netw.</italic>
+					</source>
+                    <year>2009</year>;<volume>7</volume>(<issue>8</issue>):<fpage>778</fpage>&#x2013;<lpage>831</lpage>.
+                    <pub-id pub-id-type="pmid">19755046</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>McCarty</surname>
+                            <given-names>OJ</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Mousa</surname>
+                            <given-names>SA</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Bray</surname>
+                            <given-names>PF</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Immobilized platelets support human colon carcinoma cell tethering, rolling, and firm adhesion under dynamic flow conditions.</article-title>
+                    <source>
+						
+                        <italic>Blood.</italic>
+					</source>
+                    <year>2000</year>;<volume>96</volume>(<issue>5</issue>):<fpage>1789</fpage>&#x2013;<lpage>1797</lpage>.
+                    <pub-id pub-id-type="pmid">10961878</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+						
+                        <name>
+                            <surname>Guo</surname>
+                            <given-names>T</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Krzystanek</surname>
+                            <given-names>M</given-names>
+                        </name>
+						
+                        <name>
+                            <surname>Szallasi</surname>
+                            <given-names>Z</given-names>
+                        </name>
+						
+                        <etal/>
+					</person-group>:
+                    <article-title>Data of thrombocytosis in colon cancer patients.</article-title>
+                    <source>
+						
+                        <italic>F1000Research.</italic>
+					</source>
+                    <year>2014</year>.
+                    <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5256/f1000research.4856.d33371">Data Source</ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <sub-article article-type="ref-report" id="report6678">
+        <front-stub>
+            <article-id pub-id-type="doi">10.5256/f1000research.5910.r6678</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Voutsadakis</surname>
+                        <given-names>Ioannis A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r6678a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r6678a1">
+                    <label>1</label>Medical Oncology, Sault Area Hospital, Ontario, Canada</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>11</month>
+                <year>2014</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2014 Voutsadakis IA</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport6678" related-article-type="peer-reviewed-article" xlink:href="10.12688/f1000research.4856.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The report is now acceptable for indexing.</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="ref-report" id="report6456">
+        <front-stub>
+            <article-id pub-id-type="doi">10.5256/f1000research.5910.r6456</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Moldvay</surname>
+                        <given-names>Judit</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r6456a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r6456a1">
+                    <label>1</label>Department of Pulmonology, Semmelweis University, Budapest, Hungary</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>27</day>
+                <month>10</month>
+                <year>2014</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2014 Moldvay J</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport6456" related-article-type="peer-reviewed-article" xlink:href="10.12688/f1000research.4856.2"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>The Authors have corrected the manuscript according to the referees&#x2019; comments and completions, therefore, this revised manuscript is acceptable for indexation.</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+        </body>
+    </sub-article>
+    <sub-article article-type="ref-report" id="report6229">
+        <front-stub>
+            <article-id pub-id-type="doi">10.5256/f1000research.5184.r6229</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Moldvay</surname>
+                        <given-names>Judit</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r6229a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r6229a1">
+                    <label>1</label>Department of Pulmonology, Semmelweis University, Budapest, Hungary</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>6</day>
+                <month>10</month>
+                <year>2014</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2014 Moldvay J</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport6229" related-article-type="peer-reviewed-article" xlink:href="10.12688/f1000research.4856.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>It is an interesting work providing new information on the issue of thrombocytosis in colon cancer patients. It contains relevant clinicopathologic parameters, however, there is no data on ethnicity, smoking habits, inflammatory processes, comorbidities, or medications of the studied patients, all which might have impact on platelet count 
+                <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/24510340">(Msaouel&#x00a0;
+                    <italic>et al.</italic>, 2014)</ext-link>.</p>
+            <p>The main factors that can influence the platelet count should at least be discussed.</p>
+            <p>In Figure 1. the Authors discussed the mean platelet count according to the depth of tumor invasion. Although it might change statistically significantly, the mean platelet count remains much within the normal range, therefore, the conclusion that &#x201c;&#x2026; we identified a mild, T stage-dependant increase in mean platelet count &#x2026;&#x201d; is not well-founded.&#x00a0;</p>
+            <p>One of the most critical aspects of the investigation is the number of patients, especially in stage II, as disproportionately firm conclusions have been drawn regarding correlation between overall survival and thrombocytosis on the basis of only four patients with thrombocytosis in stage II.</p>
+            <p>Another weakness of the study is the lack of information on the precise localizations of the primary tumors, as this in itself may be of prognostic value, e.g.
+                <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22555397"> Majek 
+                    <italic>et al.&#x00a0;</italic>(2012)</ext-link>&#x00a0;.</p>
+            <p>Although neoadjuvant treatment has been mentioned, it was not discussed in details, similarly, adjuvant treatments in advanced cases were not detailed either.These issues should be discussed in the "Discussion".</p>
+            <p>In Figure 2. the value of HR is not in accordance with the HR in the legend.</p>
+            <p>In the 4
+                <sup>th</sup> line of the Discussion there is a mistake with the Ref. 3., this &#x2013; most probably &#x2013; is the Ref. 5.</p>
+            <p>Similarly, in the 18
+                <sup>th</sup> line of the Discussion the Ref. 6. &#x2013; most probably &#x2013; is the Ref. 8.</p>
+            <p>In conclusion, this study yielded clinically very interesting results that might have therapeutic consequence, however, these results need to be confirmed in a much larger cohort of colorectal patients.</p>
+            <p>All in all, in my opinion this manuscript is acceptable for indexation, but only after corrections and completions based on the above mentioned comments.</p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment1026-6229">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Szallasi</surname>
+                            <given-names>Arpad</given-names>
+                        </name>
+                        <aff>Department of Pathology, Monmouth Medical Center, USA</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>None</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>13</day>
+                    <month>10</month>
+                    <year>2014</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>Whereas we share some of the reservations of the referee, we would like to point out that this is an Observational Study and not a full report. We believe that despite the limitations of this study, this is an interesting observation with potential implications for patient management. That said, we wholeheartedly agree with the referee that "these results need to be confirmed in a much larger cohort of colorectal patients."&#x00a0;</p>
+                <p>Changes done in response to points raised by the referee in the revised MS include:
+                    <list list-type="order">
+                        <list-item>
+                            <p>Our study has a number of limitations such the lack of data on ethnicity, smoking habits, comorbidities, or medications: this is now clearly stated in Patients and Methods. We believe that such a detailed, multifactorial analysis would surpass the confines of a preliminary Observational Report. Of note, the patient database is available for review for the interested reader (please follow link under Reference 14 to "data source").</p>
+                        </list-item>
+                        <list-item>
+                            <p>The most common causes of reactive thrombocytosis are now briefly listed in the Introduction.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The statement between platelet count and depth of invasion has been toned down - the reference to significance has been eliminated.</p>
+                        </list-item>
+                        <list-item>
+                            <p>As emphasized in the MS, our conclusions are preliminary and are based on a limited number of patients. It is our hope that our findings will be confirmed (or refuted) based on a much larger patient cohort.&#x00a0;</p>
+                        </list-item>
+                        <list-item>
+                            <p>The localization of the primary tumor (right-sided versus left-sided) seems to have no impact on the presence or absence of thrombocytosis: both groups had an incidence of ~7%. This is now clearly stated in Results.&#x00a0;</p>
+                        </list-item>
+                        <list-item>
+                            <p>References have been corrected.</p>
+                        </list-item>
+                    </list>
+                </p>
+            </body>
+        </sub-article>
+    </sub-article>
+    <sub-article article-type="ref-report" id="report5655">
+        <front-stub>
+            <article-id pub-id-type="doi">10.5256/f1000research.5184.r5655</article-id>
+            <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Voutsadakis</surname>
+                        <given-names>Ioannis A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="r5655a1">1</xref>
+                    <role>Referee</role>
+                </contrib>
+                <aff id="r5655a1">
+                    <label>1</label>Medical Oncology, Sault Area Hospital, Ontario, Canada</aff>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="conflict">
+                    <p>
+                        <bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>8</month>
+                <year>2014</year>
+            </pub-date>
+            <permissions>
+                <copyright-statement>Copyright: &#x00a9; 2014 Voutsadakis IA</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <related-article ext-link-type="doi" id="relatedArticleReport5655" related-article-type="peer-reviewed-article" xlink:href="10.12688/f1000research.4856.1"/>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>recommendation</meta-name>
+                    <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </front-stub>
+        <body>
+            <p>This is an interesting retrospective study of an extensive series of colorectal cancer patients and authors are to be congratulated on undertaking this academic endeavour. Nevertheless there are several points that need to be addressed. A major concern is that all stages of the disease have been included. In general a comparison between stage I and IV, for example, has no meaning clinically and the only statement that one can make is that thrombocytosis is more common. Another major concern is that no multivariate analysis is done or presented.</p>
+            <p>Some other specific points:
+                <list list-type="bullet">
+                    <list-item>
+                        <p>The title mentions specifically stage II disease (as the authors probably recognize the importance of prognostic factors in this sub-group for therapeutic decisions) but no statistical comparison is offered anywhere in the article. In any case the number of patients with thrombocytosis in this group (5) is prohibitive for definite conclusions.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the last line of the Abstract and in the Discussion&#x00a0;it should be: &#x201c;
+                            <italic>treated as stage III</italic>&#x201d; or even better &#x201c;
+                            <italic>considered for adjuvant chemotherapy</italic>&#x201d; (stage IV patients are treated with palliative intent).</p>
+                    </list-item>
+                    <list-item>
+                        <p>Data on tumor grade and location have been collected (dataset) but not summarized or presented in the article. It would be of particular interest to present and include in an eventual multivariate analysis tumor location (right versus left from the splenic flexure versus rectal).</p>
+                    </list-item>
+                    <list-item>
+                        <p>In Patients and methods&#x00a0;the normal range of platelets in authors&#x2019; institution should be mentioned.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the Results&#x00a0;it would be interesting to provide the mean and SD of the platelet number in the 2 groups (normal and thrombocytosis).</p>
+                    </list-item>
+                    <list-item>
+                        <p>In fig. 2 there is a discrepancy between HR and p values in the body and the legend. In addition the numbers at risk do not match. Is that a mistake in calculations or data missing? Authors should address this.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the 4
+                            <sup>th</sup> line of the 1
+                            <sup>st</sup> paragraph of the Discussion&#x201d; the reference&#x00a0;does not seem to be correct. Same with reference&#x00a0;6 in the 2
+                            <sup>nd </sup>paragraph.</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the discussion on metastatic patients -&#x00a0;this is an over-simplification. If any useful comparison is to be made, other data have to be entered in the equation such as oligometastatic versus polymetastatic disease and treatments.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Treatments should be mentioned. For example have all stage III patients received adjuvant chemotherapy? And have any of the stage II patients received any such treatment?</p>
+                    </list-item>
+                    <list-item>
+                        <p>In the 4
+                            <sup>th</sup> paragraph of the Discussion&#x00a0;the explanation of &#x201c;
+                            <italic>false negative node examination</italic>&#x201d; is improbable as there is no reason to suspect that such false negative occurs more commonly in patients with thrombocytosis. Instead a difference in biology as briefly discussed in the next paragraph is more probable.</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Reviewer Expertise:</p>
+            <p>NA</p>
+            <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+        </body>
+        <sub-article article-type="response" id="comment1027-5655">
+            <front-stub>
+                <contrib-group>
+                    <contrib contrib-type="author">
+                        <name>
+                            <surname>Szallasi</surname>
+                            <given-names>Arpad</given-names>
+                        </name>
+                        <aff>Department of Pathology, Monmouth Medical Center, USA</aff>
+                    </contrib>
+                </contrib-group>
+                <author-notes>
+                    <fn fn-type="conflict">
+                        <p>
+                            <bold>Competing interests: </bold>None</p>
+                    </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                    <day>13</day>
+                    <month>10</month>
+                    <year>2014</year>
+                </pub-date>
+            </front-stub>
+            <body>
+                <p>We are grateful for the referee for his thoughts in making this a better MS. Whereas we agree with most of the reservations of the referee, we would like to point out that this is an Observation Study, and not a full report. We believe that despite the limitations of our study, our conclusions are sound and (if confirmed) may have important implications for patient management.</p>
+                <p>Major changes done in response to points raised by the referee include:
+                    <list list-type="order">
+                        <list-item>
+                            <p>We agree with the referee that the small number of patients (5) in the stage II group precludes a definitive conclusion; this is now clearly stated in the MS. Again, this is an Observational Study within the confines of our hospital database on colorectal carcinoma patients.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Both the Abstract and the Discussion have been modified as suggested by the referee ("treated as stage III" has been changed to "may be considered for adjuvant chemotherapy").</p>
+                        </list-item>
+                        <list-item>
+                            <p>The multivariate analysis with special regard to the location of the tumor (right-sided versus left-sided) in now detailed in the Results.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The normal range of platelets at our Institution (150 to 400 K/ul) is now provided in the MS.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The mean +/-SD of the platelet counts in the two patient groups (with and without thrombocytosis) is now provided in Results.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Indeed, there is a discrepancy between the body of the text and Figure 2 with regard to the patient numbers; this should have been addressed before to avoid any confusion. As clearly stated now in Patients and Methods, our database included 310 patients. Of these patients, our Cancer Registry had long-term survival data on 253 patients (hence the discrepancy): the remaining 57 patients most likely decided to seek treatment at a different facility.</p>
+                        </list-item>
+                        <list-item>
+                            <p>References have been corrected.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Discussion on metastatic patients has been modified.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Unfortunately, our Cancer Registry has no full details on chemotherapy regimens (some of our patients receive chemotherapy in a private practice setting).</p>
+                        </list-item>
+                        <list-item>
+                            <p>The reference to "false negative node examination" has been eliminated.</p>
+                        </list-item>
+                    </list>
+                </p>
+            </body>
+        </sub-article>
+    </sub-article>
+</article>
