@@ -8,4 +8,5 @@ Fill me in please! Don't forget code examples:
 
 ```python
 df = get_data()
+df
 ```
